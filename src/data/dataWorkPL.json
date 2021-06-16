@@ -1,0 +1,68 @@
+{"Works": [
+    {
+        "id": 1,
+        "name": "BugTank",
+        "dsc": "Projekt bug trackera, działająca strona logowania z uwierzytelnianiem, baza danych Firebase do zapisywania danych. Ta witryna umożliwia śledzenie błędów w projekcie za pomocą wizualizacji danych (wciąż pracuję nad nowymi funkcjami)",
+        "img": "./images/mywork-bugtank.png",
+        "tags" : ["HTML", "CSS", "React", "Firebase", "react-router"],
+        "siteLink": "https://artluevil.github.io/BugTank/"
+    },
+    {
+        "id": 2,
+        "name": "Stormzee",
+        "dsc": "Serwis pogodowy pobierający dane z API openweather i weatherAPI. Ta strona wyświetla zanieczyszczenie powietrza, aktualną pogodę, tygodniową pogodę, szczegółowe informacje o aktualnej pogodzie i posiada wyszukiwarke miast",
+        "img": "./images/mywork-stormzee.png",
+        "tags" : ["HTML", "CSS", "React", "Redux", "axios", "react-router"],
+        "siteLink": "https://artluevil.github.io/Stormzee/"
+    },
+    {
+        "id": 3,
+        "name": "Adidas Mylo",
+        "dsc": "Strona prezentująca nowy produkt Adidasa, buty zrobione dzięki materiałowi pozyskanemu z grzybów",
+        "img": "./images/mywork-adidas.png",
+        "tags" : ["HTML", "CSS", "Javascript"],
+        "siteLink": "https://artluevil.github.io/AdidasMylo/#"
+    },
+    {
+        "id": 4,
+        "name": "Birac",
+        "dsc": "Witryna firmy architektonicznej z animacjami przewijania i przyciskiem menu napisanym samym JavaScriptem",
+        "img": "./images/mywork-birac.png",
+        "tags" : ["HTML", "CSS", "Javascript", "AOS"],
+        "siteLink": "https://artluevil.github.io/Birac/"
+    },
+    {
+        "id": 5,
+        "name": "Planet Earth",
+        "dsc": "Strona poświęcona ziemi, testuje ona click'n swipe typ strony zrobionej w React",
+        "img": "./images/mywork-planet-earth.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React", "react-scroll", "react-router", "react-easy-swipe"],
+        "siteLink": "https://artluevil.github.io/planet-earth"
+    },
+    {
+        "id": 6,
+        "name": "Notie",
+        "dsc": "Strona na której możesz zapisywać swoje notatki oraz dać im nazwe i opis",
+        "img": "./images/mywork-notie.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React"],
+        "siteLink": "https://artluevil.github.io/note-app/"
+    },
+    {
+        "id": 7,
+        "name": "Moon Website",
+        "dsc": "Ciekawa strona opisująca księżyc, wiele animacji stworzonych w React",
+        "img": "./images/mywork-moon-website.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React"],
+        "siteLink": "https://artluevil.github.io/moon-website/"
+    },
+    {
+        "id": 8,
+        "name": "CinemaDG3",
+        "dsc": "Bazująca na komponentach strona kina z karuzelą filmów oraz informacjami na temat seansu",
+        "img": "./images/mywork-cinemaDG3.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React"],
+        "siteLink": "https://artluevil.github.io/kino-website/"
+    }
+ ]
+ 
+ }

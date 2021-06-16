@@ -1,0 +1,40 @@
+{"Cards": [
+    {
+        "id": 1,
+        "name": "React",
+        "dsc": "Biblioteka oparta na komponentach JavaScript do tworzenia interfejsów użytkownika. Komponenty wielokrotnego użytku sprawiają, że praca jest bardzo wydajna, a virtual DOM i state obsługują dla nas szybkie ładowanie i aktualizacje bez konieczności odświeżania strony. React ma bardzo dużą społeczność z wieloma wspaniałymi bibliotekami",
+        "img": "./images/react-logo.png"
+    },
+    {
+        "id": 2,
+        "name": "Sass",
+        "dsc": "Sass jest, najstabilnym i najpotężnym językiem rozszerzającym funkcjonalność CSS na świecie. Dzięki niemu nie muszę martwić się o kompatybilność z różnymi przeglądarkami. Dzięki SCSS mój kod jest lepiej zorganizowany, co jest przydatne przy pracy z grupą.",
+        "img": "./images/sass-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Javascript",
+        "dsc": "JavaScript to oparty na prototypach, wieloparadygmatyczny, jednowątkowy, dynamiczny język, obsługujący style obiektowe, imperatywne i deklaratywne (np. Programowanie funkcjonalne). Potężny język programowania używany w wielu witrynach internetowych.",
+        "img": "./images/javascript-logo.png"
+    },
+    {
+        "id": 4,
+        "name": "Redux",
+        "dsc": "Przydatne narzędzie, które ułatwia mi zarządzanie stanem i pozwala na jego śledzenie. Podczas tworzenia dużych projektów w React napotykam wiele problemów z aktualizacjami stanu. Redux pomaga mi pisać aplikacje, które zachowują się konsekwentnie, działają w różnych środowiskach (klient, serwer i natywne) i są łatwe do przetestowania.",
+        "img": "./images/redux-logo.png"
+    },
+    {
+        "id": 5,
+        "name": "Html",
+        "dsc": "HyperText Markup Language lub HTML to standardowy język znaczników dla dokumentów zaprojektowanych do wyświetlania w przeglądarce internetowej. Mogą w tym pomóc technologie, takie jak CSS lub języki skryptowe, takie jak Javascript.",
+        "img": "./images/html-logo.png"
+    },
+    {
+        "id": 6,
+        "name": "CSS",
+        "dsc": "Kaskadowe arkusze stylów to język arkuszy stylów służący do nadawania wyglądu strony. CSS jest podstawą technologii World Wide Web, obok HTML i JavaScript.",
+        "img": "./images/css-logo.png"
+    }
+]
+
+}

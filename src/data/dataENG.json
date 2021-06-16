@@ -1,0 +1,40 @@
+{"Cards": [
+    {
+        "id": 1,
+        "name": "React",
+        "dsc": "A JavaScript component based library for building user interfaces. Reusable components makes work very efficent, virtual DOM and states handle for us fast loadings and updates without refreshing page. React has very big community with plenty of great libraries",
+        "img": "./images/react-logo.png"
+    },
+    {
+        "id": 2,
+        "name": "Sass",
+        "dsc": "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. It let me to not worry about cross browser compatibility. Thanks to SCSS my code is more organized which is usefull if I work with group.",
+        "img": "./images/sass-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Javascript",
+        "dsc": "JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Powerfull programming language used in a lot of websites.",
+        "img": "./images/javascript-logo.png"
+    },
+    {
+        "id": 4,
+        "name": "Redux",
+        "dsc": "Usefull tool that handle for us state managment and more. When creating big projects in React I face alot of problems with state updates. Redux helps me write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
+        "img": "./images/redux-logo.png"
+    },
+    {
+        "id": 5,
+        "name": "Html",
+        "dsc": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as CSS or scripting languages such as Javascript.",
+        "img": "./images/html-logo.png"
+    },
+    {
+        "id": 6,
+        "name": "CSS",
+        "dsc": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "img": "./images/css-logo.png"
+    }
+]
+
+}

@@ -1,0 +1,18 @@
+{"Projects": [
+    {
+        "id": 1,
+        "name": "BugTank",
+        "dsc": "Projekt bug trackera, działająca strona logowania z uwierzytelnianiem, baza danych Firebase do zapisywania danych. Ta witryna umożliwia śledzenie błędów w projekcie za pomocą wizualizacji danych (wciąż pracuję nad nowymi funkcjami).",
+        "img": "./images/project-bugtank.png",
+        "siteLink": "https://artluevil.github.io/BugTank/"
+    },
+    {
+         "id": 2,
+         "name": "Adidas Mylo",
+         "dsc": "Strona prezentująca nowy produkt Adidasa, buty zrobione dzięki materiałowi pozyskanemu z grzybów",
+         "img": "./images/project-adidas.png",
+         "siteLink": "https://artluevil.github.io/AdidasMylo/#"
+     }
+ ]
+ 
+ }

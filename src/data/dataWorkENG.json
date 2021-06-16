@@ -1,0 +1,68 @@
+{"Works": [
+    {
+        "id": 1,
+        "name": "BugTank",
+        "dsc": "Bug tracker project, working login page with authentication, firebase database for saving your data. This website let you track bugs in your project with data visualization(still working on new features)",
+        "img": "./images/mywork-bugtank.png",
+        "tags" : ["HTML", "CSS", "React", "Firebase", "react-router"],
+        "siteLink": "https://artluevil.github.io/BugTank/"
+    },
+    {
+        "id": 2,
+        "name": "Stormzee",
+        "dsc": "Weather website fetching data from openweather API and weatherAPI. This site displays air pollution, current weather, weekly weather, specific information about current weather and have city search with working hints",
+        "img": "./images/mywork-stormzee.png",
+        "tags" : ["HTML", "CSS", "React", "Redux", "axios", "react-router"],
+        "siteLink": "https://artluevil.github.io/Stormzee/"
+    },
+    {
+        "id": 3,
+        "name": "Adidas Mylo",
+        "dsc": "Website for new adidas shoe made with mushroom based material.",
+        "img": "./images/mywork-adidas.png",
+        "tags" : ["HTML", "CSS", "Javascript"],
+        "siteLink": "https://artluevil.github.io/AdidasMylo/#"
+    },
+    {
+        "id": 4,
+        "name": "Birac",
+        "dsc": "Architecture company website with scroll animations and burger menu button written with plain Javascript",
+        "img": "./images/mywork-birac.png",
+        "tags" : ["HTML", "CSS", "Javascript", "AOS"],
+        "siteLink": "https://artluevil.github.io/Birac/"
+    },
+    {
+        "id": 5,
+        "name": "Planet Earth",
+        "dsc": "Project about earth, testing click'n swipe based website in React",
+        "img": "./images/mywork-planet-earth.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React", "react-scroll", "react-router", "react-easy-swipe"],
+        "siteLink": "https://artluevil.github.io/planet-earth"
+    },
+    {
+        "id": 6,
+        "name": "Notie",
+        "dsc": "Website where You can save notes, give them name and description",
+        "img": "./images/mywork-notie.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React"],
+        "siteLink": "https://artluevil.github.io/note-app/"
+    },
+    {
+        "id": 7,
+        "name": "Moon Website",
+        "dsc": "Cool website about moon with some animation build in React",
+        "img": "./images/mywork-moon-website.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React"],
+        "siteLink": "https://artluevil.github.io/moon-website/"
+    },
+    {
+        "id": 8,
+        "name": "CinemaDG3",
+        "dsc": "component based Cinema website with banner carousel and items showcase build in React",
+        "img": "./images/mywork-cinemaDG3.png",
+        "tags" : ["HTML", "CSS", "Javascript", "React"],
+        "siteLink": "https://artluevil.github.io/kino-website/"
+    }
+ ]
+ 
+ }

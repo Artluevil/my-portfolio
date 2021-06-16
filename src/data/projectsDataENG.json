@@ -1,0 +1,18 @@
+{"Projects": [
+   {
+       "id": 1,
+       "name": "BugTank",
+       "dsc": "Bug tracker project, working login page with authentication, firebase database for saving your data. This website let you track bugs in your project with data visualization(still working on new features).",
+       "img": "./images/project-bugtank.png",
+       "siteLink": "https://artluevil.github.io/BugTank/"
+   },
+   {
+        "id": 2,
+        "name": "Adidas Mylo",
+        "dsc": "Website for new adidas shoe made with mushroom based material",
+        "img": "./images/project-adidas.png",
+        "siteLink": "https://artluevil.github.io/AdidasMylo/#"
+    }
+]
+
+}
